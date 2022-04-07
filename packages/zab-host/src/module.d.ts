@@ -1,0 +1,1 @@
+declare module "zab_content/ZabContent"
